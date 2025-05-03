@@ -1,0 +1,35 @@
+# Node modules
+/node_modules/
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Dependency directories
+jspm_packages/
+
+# Build directories
+/dist/
+/build/
+/public/
+
+# Environment variables
+.env
+.env.*
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm package lock
+package-lock.json
+yarn.lock
+
+# Optional: coverage output directory
+/coverage/
